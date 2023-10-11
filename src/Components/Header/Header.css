@@ -1,0 +1,40 @@
+.florist {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fl {
+  margin-right: 5px;
+  color: rgb(226, 83, 150);
+}
+.form-control {
+  width: 50%;
+}
+.navbar {
+  margin-left: 30px;
+  display: flex;
+}
+.cart-icon {
+  width: 20px;
+}
+.cart {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 7%;
+  margin-right: 30px;
+}
+.p {
+  margin-top: 15px;
+}
+.nav-btn {
+  margin-right: 150px;
+}
+span {
+  color: black;
+}
+.home {
+  color: rgb(226, 83, 150);
+  text-decoration: underline rgb(226, 83, 150);
+}
